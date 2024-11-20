@@ -1,4 +1,4 @@
-package Oct19;
+package oct19;
 
 import java.util.Scanner;
 

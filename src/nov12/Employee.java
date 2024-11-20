@@ -1,4 +1,4 @@
-package Nov12;
+package nov12;
 
 public class Employee {
     public int id;

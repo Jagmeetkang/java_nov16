@@ -1,10 +1,6 @@
-package Nov16;
-
-import Nov12.Employee;
+package nov16;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Set;
 
 public class ArraylistInteger {
     public static void main(String[] args) {
