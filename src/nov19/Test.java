@@ -27,6 +27,7 @@ public class Test {
         for(Map.Entry entries : map.entrySet()){
             System.out.println("Key " + entries.getKey() + " Value " + entries.getValue());
             System.out.println();
+            System.out.println();
         }
     }
 }
