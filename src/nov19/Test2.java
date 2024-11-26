@@ -1,7 +1,6 @@
 package nov19;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class Test2 {
     static int stock =0;
@@ -32,6 +31,12 @@ public class Test2 {
         System.out.println(stock);
         System.out.println(product);
         System.out.println(counter/div);
+
+
+       /* HashMap<> hashMap = new HashMap<>();
+        hashMap.put()
+
+        */
 
     }
 }
